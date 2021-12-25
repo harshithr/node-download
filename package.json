@@ -1,5 +1,5 @@
 {
-  "name": "node-download",
+  "name": "easy-download-image",
   "version": "1.0.0",
   "description": "Lightweight NPM package for downloading files in easier way.",
   "main": "index.js",

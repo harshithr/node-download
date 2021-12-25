@@ -1,4 +1,4 @@
-NODE-DOWNLOAD
+NODE-DOWNLOAD-IMAGE
 =========
 
 A small library for downloading files and saving them to local system.
