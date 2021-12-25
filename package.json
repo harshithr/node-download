@@ -1,0 +1,24 @@
+{
+  "name": "node-download",
+  "version": "1.0.0",
+  "description": "Lightweight NPM package for downloading files in easier way.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harshithr/node-download.git"
+  },
+  "keywords": [
+    "node",
+    "download",
+    "node-download"
+  ],
+  "author": "Harshith R <harshithr.pro@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harshithr/node-download/issues"
+  },
+  "homepage": "https://github.com/harshithr/node-download#readme"
+}
